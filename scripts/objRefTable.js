@@ -42,8 +42,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.EveryTick,
 		C3.Plugins.Audio.Cnds.IsSilent,
 		C3.Behaviors.Physics.Acts.SetEnabled,
-		C3.Plugins.Button.Cnds.OnClicked,
-		C3.Plugins.System.Acts.GoToLayout
+		C3.Plugins.System.Acts.GoToLayout,
+		C3.Plugins.Button.Cnds.OnClicked
 	];
 };
 self.C3_JsPropNameTable = [
